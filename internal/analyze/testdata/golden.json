@@ -1,0 +1,26 @@
+{
+ "kpi": {
+  "cost": 9.54966999,
+  "i": 1509403,
+  "o": 145238,
+  "cr": 8660569,
+  "cw": 467721,
+  "calls": 306,
+  "sessions": 16
+ },
+ "bash": {
+  "calls": 52,
+  "err": 4,
+  "retries": 0
+ },
+ "tools": 6,
+ "fixes": [
+  "light-on-opus"
+ ],
+ "projects": [
+  "agentlog",
+  "infra",
+  "shop-api",
+  "dotfiles"
+ ]
+}

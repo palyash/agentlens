@@ -1,0 +1,9 @@
+/agentlens
+/dist/
+*.test
+.DS_Store
+.idea/
+.claude/
+# never commit real transcripts
+*.jsonl
+!internal/demo/data/**/*.jsonl
